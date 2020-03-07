@@ -1,0 +1,78 @@
+.dtable{
+	width: 100%;
+	text-align: center;
+	color: Red;
+	/*background:url("C:\Users\Prantosh Kumar\Desktop\table\veyron.jpg");*/
+	border-collapse: collapse;
+	background-repeat: no-repeat;
+}
+
+.first{
+
+	border: 2px solid #ffffff;
+	padding: 50px;
+	background: rgba(0, 0, 0, 1);
+
+}
+
+.second{
+	border: 2px solid #ffffff;
+	padding: 50px;
+	background: rgba(0, 0, 0, 1);
+}
+
+.third{
+
+	border: 2px solid #ffffff;
+	padding: 50px;
+	background: rgba(0, 0, 0, 1);
+
+}
+
+.four{
+
+	border: 2px solid #ffffff;
+	padding: 50px;
+	background: rgba(0, 0, 0, 1);
+
+}
+
+.five{
+
+	border: 2px solid #ffffff;
+	padding: 50px;
+	background: rgba(0, 0, 0, 1);
+
+}
+
+.six{
+
+	border: 2px solid #ffffff;
+	padding: 50px;
+	background: rgba(0, 0, 0, 1);
+
+}
+
+.seven{
+
+	border: 2px solid #ffffff;
+	padding: 50px;
+	background: rgba(0, 0, 0, 1);
+
+}
+
+.eight{
+
+	border: 2px solid #ffffff;
+	padding: 50px;
+	background: rgba(0, 0, 0, 1);
+
+}
+
+.final{
+
+	border: 2px solid #ffffff;
+	padding: 50px;
+	background: rgba(0, 0, 0, 1);
+
+}
